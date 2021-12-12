@@ -1,0 +1,18 @@
+- Alguns dos comandos mais usuais no git:
+
+* No readme.md (Markdown)
+
+[] - Ao inserir entre as chaves, é criado um título para hyperlink + "adicionando" os () indicamos o endereço a ser linkado.
+
+ * No Git Bash
+
+- git clone + link do repositório github (clonamos o repositório remoto para a nossa máquina local).
+
+- git status (indentifica as modificações e o status atual)
+
+- git add . (adiciona na branch associada ao repositório)
+
+- git commit -m "campo preenchido com o comentário referente ao novo repositório/commit criado para atualização de versionamento".
+
+- git push origin main (envia todos os commits locais para o acesso remoto no github).
+
